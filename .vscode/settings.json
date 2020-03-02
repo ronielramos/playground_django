@@ -1,0 +1,15 @@
+{
+  "python.pythonPath": "ENV/bin/python",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "spellright.language": [
+    "en",
+    "pt"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "python"
+  ]
+}
